@@ -1,5 +1,5 @@
 <!--
-**azxj/azxj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaojianzhong/xiaojianzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Xiaojian Zhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=azxj&count_private=true&show_icons=true&include_all_commits=true&bg_color=60,A569BD,7FB3D5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiaojian Zhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaojianzhong&count_private=true&show_icons=true&include_all_commits=true&bg_color=60,A569BD,7FB3D5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
